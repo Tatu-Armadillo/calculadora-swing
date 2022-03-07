@@ -1,4 +1,4 @@
-package br.com.calculadora.visao;
+package br.com.calculadora.views;
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;
